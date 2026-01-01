@@ -1,4 +1,4 @@
-## <i>Hi there 👋 I'm Archana A D</i>
+## <i>Hi there 👋 I'm Archana...</i>
 
 -🎓 B.Tech Computer Science and Engineering student.  
 -🏫 Vidya Academy of Science and Technology,Thrissur, Kerala.  
