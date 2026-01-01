@@ -1,9 +1,10 @@
-## Hi there 👋 I'm Archana A D
+## <i>Hi there 👋 I'm Archana A D</i>
 
--🎓 B.Tech Computer Science and Engineering student  
--🏫 Vidya Academy of Science and Technology,Thrissur, Kerala  
--💻 Interested in Web Development
--🚀 Always curious to learn new technologies  
+-🎓 B.Tech Computer Science and Engineering student.  
+-🏫 Vidya Academy of Science and Technology,Thrissur, Kerala.  
+-💻 Interested in Web Development.<br>
+-🚀 Always curious to learn new technologies.  
+
 
 ---
 
@@ -24,7 +25,6 @@
   <img src="https://img.shields.io/badge/C-E0BBE4?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=java&logoColor=black"/>
 </p>
----
 
 ### 💡 Skills
 - HTML, CSS, JavaScript  
@@ -33,14 +33,14 @@
 - Git & GitHub
 - C
 ---
-  ### 🐾 Fun Facts
+ ### 🐾 Fun Facts
 - Cat person 🐱  
 ---
 ### 📫 How to reach me
--💼 LinkedIn: https://www.linkedin.com/in/archana-a-d-02504a346/
--📧 Email: adarchana72@gmail.com  
--📸 Instagram: https://instagram.com/archana_a_d 
--🌸 Portfolio: https://archana-a-d.github.io/portfolio/
+💼 LinkedIn: https://www.linkedin.com/in/archana-a-d-02504a346/<br>
+📧 Email: adarchana72@gmail.com  <br>
+📸 Instagram: https://instagram.com/archana_a_d <br>
+🌸 Portfolio: https://archana-a-d.github.io/portfolio/
 
 ---
 
