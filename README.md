@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/HTML5-FF9AA2?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-AEC6CF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFF1AC?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-AI?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev"/>
 </p>
 
 <p>
