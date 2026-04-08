@@ -88,7 +88,7 @@
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [archana-a-d](https://www.linkedin.com/in/archana-a-d-02504a346/) |
+| 💼 LinkedIn | [archana-a-d](https://www.linkedin.com/in/archana-a-d/) |
 | 📧 Email | [adarchana72@gmail.com](mailto:adarchana72@gmail.com) |
 | 📸 Instagram | [@archana_a_d](https://instagram.com/archana_a_d) |
 | 🌸 Portfolio | [archana-a-d.github.io/portfolio](https://archana-a-d.github.io/portfolio/) |
